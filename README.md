@@ -1,6 +1,7 @@
-### Data Visualization Belgrade - Workshop 01
+### Data Visualization Belgrade - Workshop 01 - Phaser
 
-
+This is an attempt to implement project form first workshop organized by Data Visualization Belgrade group using [Phaser](https://github.com/photonstorm/phaser).
+The goal is to have identical visual representations in order to compare code complexity, readibility and performance. 
 
 #### Install Instructions
 
